@@ -60,7 +60,7 @@ $ git add index.html
 $ git add code.js
 ... <alle bestanden toevoegen met git add> ...
 $ git commit -m "Oplossing practicum"
-$ git push origin master
+$ git push origin main
 ```
 
 **Kijk goed na of je alle bestanden correct hebt ingediend. Een foute inzending wordt gelijkgesteld aan laattijdige inzending!**
